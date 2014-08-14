@@ -1,0 +1,26 @@
+{
+  "name": "logify-syslog-levels",
+  "version": "1.0.0",
+  "description": "Syslog levels for logify",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/purposeindustries/node-logify-syslog-levels"
+  },
+  "keywords": [
+    "logger",
+    "syslog"
+  ],
+  "author": "Purpose Industries <dev@purposeindustries.co> (http://purposeindustries.co)",
+  "contributors": [
+    "Bence Dányi <bd@purposeindustries.co>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/purposeindustries/node-logify-syslog-levels/issues"
+  },
+  "homepage": "https://github.com/purposeindustries/node-logify-syslog-levels",
+  "dependencies": {
+    "chalk": "^0.5.1"
+  }
+}
